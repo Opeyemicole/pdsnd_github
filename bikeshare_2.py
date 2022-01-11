@@ -242,7 +242,7 @@ def user_stats(df):
 
 
     else:
-        print("TWe currently dont have data for the selected birth year")
+        print("We currently dont have data for the selected birth year")
 
     print("\nThis took %s seconds." % (time.time() - start_time))
     print('-'*40)
