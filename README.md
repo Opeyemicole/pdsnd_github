@@ -1,17 +1,42 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
-
 ### Date created
-Include the date you created this project and README file.
+16th of December, 2021
 
 ### Project Title
-Replace the Project Title
+Exploration of Bikeshare Data
 
 ### Description
-Describe what your project is about and what it does
+This is an interactive project that carries out a descriptive analysis on Bikeshare data of three major cities in the U.S. (Chicago, Washington and New York) using the Pandas Library. Based on the user's input program prints the following:
+
+* Most popular hour
+* Most popular start station
+* Most popular end station
+* Most popular combination of start and end stations
+* Most popular month
+* Most popular day
+* Total trip duration
+* Average trip duration
+* Types of users by number
+* Types of users by gender
+* The oldest user
+* The youngest user
+* The most common birth year amongst users
+
+
+### Requirements
+* Language: Python 3.6 or above
+* Libraries: pandas, numpy, time
+
 
 ### Files used
-Include the files used
+* Chicago.csv - chicago bikeshare Data
+* New_york_city.csv - new_york_city bikeshare Data
+* Washington.csv - Washington bikeshare data
+
+### Author
+Opeyemi Adebowale
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+* [Aritra Chattaraj](https://github.com/aritra96) - Aritra96's repository also added to better understanding of the structure for this project.
+* [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
+* [Udacity](https://udacity.com - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
+* Also a notable contribution from a prior internship with WejapaHQ as a data science intern which help prepare me fundamentally
