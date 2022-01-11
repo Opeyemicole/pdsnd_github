@@ -32,6 +32,9 @@ This is an interactive project that carries out a descriptive analysis on Bikesh
 * New_york_city.csv - new_york_city bikeshare Data
 * Washington.csv - Washington bikeshare data
 
+### Author
+Opeyemi Adebowale
+
 ### Credits
 * [Aritra Chattaraj](https://github.com/aritra96) - Aritra96's repository also added to better understanding of the structure for this project.
 * [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
