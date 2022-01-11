@@ -19,7 +19,7 @@ This is an interactive project that carries out a descriptive analysis on Bikesh
 * Types of users by gender
 * The oldest user
 * The youngest user
-* The most common birth year amongst users 
+* The most common birth year amongst users
 
 
 ### Requirements
@@ -36,3 +36,4 @@ This is an interactive project that carries out a descriptive analysis on Bikesh
 * [Aritra Chattaraj](https://github.com/aritra96) - Aritra96's repository also added to better understanding of the structure for this project.
 * [pandas docs](http://pandas.pydata.org/pandas-docs/stable/) - pandas documentation was immensely helpful in understanding the implemention of pandas methods used in this project.
 * [Udacity](https://udacity.com - Udacity's Data Analyst Nanodegree program and their instructors were extremely helpful while I was pursuing this project.
+* Also a notable contribution from a prior internship with WejapaHQ as a data science intern which help prepare me fundamentally
